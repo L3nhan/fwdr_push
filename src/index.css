@@ -1,0 +1,59 @@
+/* Change bootstrap button */
+.btn-info {
+	background-color: #6495ED
+}
+.btn-outline-primary{
+	width: 200px;
+}
+
+/* Class location-1-1 */
+.location-1-1 {
+	position:absolute;
+	left: 5px;
+	top: 5px;
+	right: 0px;
+	height: 110px
+}
+
+/* Class location-2-1 */
+.location-2-1 {
+	position:absolute;
+	left: 5px;
+	top: 155px;
+	width: 200px;
+	bottom: 0px
+}
+.location-2-1 button{
+	width: 190px;
+}
+.location-2-1 table{
+	width: 100%;
+}
+.location-2-1 td{
+	text-align: center
+}
+
+/* Class location-2-2 */
+.location-2-2 {
+	position:absolute;
+	left: 300px;
+	top: 155px;
+	right: 0px;
+	bottom: 0px
+}
+
+.location-2-2 th{
+	text-align: center;
+	height: 55px;
+	background-color: #6495ED
+}
+
+.location-2-2 td{
+	text-align: center;
+	height: 45px;
+}
+
+.location-2-2 input{
+	width: 300px;
+}
+
